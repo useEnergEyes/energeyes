@@ -24,12 +24,6 @@ Carbon Calculator analytics codebase & business customer verification database.
 - Verify application is used to enable a zero-trust mechanism for the Net Zero status.  When businesses achieve Net Zero with EnergEyes.org carbon offsets (Carbon Credits), their purchase history and emissions data will become public.
 - Consumers verify Net Zero claims on their own.
 
-## Features
-
-- **Feature 1**: Description of feature 1.
-- **Feature 2**: Description of feature 2.
-- **Feature 3**: Description of feature 3.
-
 ## Contributing
 
 1. Fork the project.
